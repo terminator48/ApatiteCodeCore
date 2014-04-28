@@ -1,0 +1,8 @@
+name: ApatiteCodeCore
+main: apatitecodecore.ApatiteCodeCore
+description: Development function lib
+version: 0.1
+commands:
+   database:
+       description: Provides the access to database
+       usage: /<command> [view|set]
